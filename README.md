@@ -1,2 +1,2 @@
 # midea-hp
-Midea Het Pump HACS integration
+Midea Heat Pump HACS integration
